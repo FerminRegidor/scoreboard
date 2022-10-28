@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #1c2945;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 140px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+button {
+    /* the fotn doesnt work for some reason :( */
+    background: none;
+    color: #9AABD8;
+    border-color: #9AABD8;
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+}
+.ngBtn {
+    font-family: Verdana;
+    font-style: normal;
+    font-size: 18px;
+    color: #9AABD8;
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    width: 150px;
+    height: 60px;
+}
+
+.letter {
+    font-family: Verdana;
+    font-style: normal;
+    color: #EEEEEE;
+}
